@@ -1,0 +1,2 @@
+# notetest
+note for hadoop
